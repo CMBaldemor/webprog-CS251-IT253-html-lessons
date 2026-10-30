@@ -1,1 +1,1 @@
-# WEBPROG-CS251-IT253-html-lessons
+# webprog-CS251-IT253-html-lessons
