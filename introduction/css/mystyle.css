@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
 }
 
-div h1, div h2 {
+div h1, div h2,  {
     color: navy;
     margin: auto;
 }
@@ -14,4 +14,8 @@ div {
     margin-top: 30px;
     background-color: floralwhite;
     padding: 25px;
+    border-radius: 5px;
+    border-style:solid;
+    border-width: medium;
+    border-color: blue;
 }
