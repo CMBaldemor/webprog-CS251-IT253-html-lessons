@@ -3,11 +3,6 @@ body {
     font-family: Arial, sans-serif;
 }
 
-div h1, div h2,  {
-    color: navy;
-    margin: auto;
-}
-
 div {
     width: 80%;
     margin: auto;
@@ -18,6 +13,11 @@ div {
     border-style: solid;
     border-width: medium;
     border-color: blue;
+}
+
+div h1, div h2,  {
+    color: navy;
+    margin: auto;
 }
 
 .intro {
