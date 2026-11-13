@@ -15,7 +15,11 @@ div {
     background-color: floralwhite;
     padding: 25px;
     border-radius: 5px;
-    border-style:solid;
+    border-style: solid;
     border-width: medium;
     border-color: blue;
+}
+
+.intro {
+    text-align: center;
 }
